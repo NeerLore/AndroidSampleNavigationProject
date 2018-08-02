@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="tip_connect_error">Could not connect to the internet</string>
+
+    <string name="activity_main_button">request</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">description</string>
+</resources>
